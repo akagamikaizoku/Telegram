@@ -2,7 +2,7 @@
     "name": "Telegram",
     "description": "an awesome music+ management source code.",
     "keywords": ["Zaid", "telegram", "Zaid-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
-    "repository": "https://github.com/ITZ-ZAID/Telegram",
+    "repository": "https://github.com/akagamikaizoku",
   "stack": "container",
     "env": {
         "STRING_SESSION": {
@@ -11,7 +11,7 @@
         },
         "REPO_URL": {
             "description": "URL of the REPO, If You Have edited Repo.. Else Leave ! Don't Change",
-            "value": "https://github.com/ITZ-ZAID/Telegram"
+            "value": "https://github.com/akagamikaizoku"
         },
         "OWNER_USERNAME": {
             "description": "your profile username without@!",
@@ -25,12 +25,12 @@
         "SUPPORT": {
             "description": "Fill there your group username else leave",
             "required": false,
-            "value": "TheSupportChat"
+            "value": "chatdiscussion17"
         },
         "CHANNEL": {
             "description": "Fill there your Channel username else leave",
             "required": false,
-            "value": "TheUpdatesChannel"
+            "value": "esdeath_xb"
         },
         "DATABASE_URL": {
             "description": "Fill database from elephantsql.com",
@@ -51,11 +51,11 @@
         },
         "GBAN_LOGS": {
             "description": "Forward Your Channel Message to @Zaid2_Robot To Get Your Channel ID..",
-            "value": "-100"
+            "value": ""
         },
         "MESSAGE_DUMP": {
             "description": "Forward Your Channel Message to @Zaid2_Robot To Get Your Channel ID..",
-            "value": "-100"
+            "value": ""
         },
         "TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
