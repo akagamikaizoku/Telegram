@@ -8,6 +8,7 @@
         "STRING_SESSION": {
             "description": "fill with the telethon session string from https://replit.com/@Itz-zaid/Generator",
             "required": true
+            "value": "BQHFhggAnljOI35HkOwjsQkej5-TCmNONWKeYiJqDnVDmfMm-pMDTYqpS1CU4xyKJoKIAMrxW-FkA668iWlyH_gNnsV-sCTDLSuUW3XtL5cyi5NGkuDhwGyMV81Lz-fbw6rXYZ0mb2pY5g1YutVnHVXzJNLAT-StpoQ7CtJcljKrkvdBFK-n8wFscByLDH0lxh8lkt7pWPf3MOzgnMAsIAJTOlKPUf7DBnSaCE86nW8ReqSeT1v62SDYdWfIwdQjsSCBtraeL1dtFW08r8Tig9Q1TwavCTaY8hGMACw3VuAqzjYpO1SDY2JuOQO5lOQycO1Ra89fd6nBkg2MoJ9CjwvzmUGZsgAAAAGNJey1AQ"
         },
         "REPO_URL": {
             "description": "URL of the REPO, If You Have edited Repo.. Else Leave ! Don't Change",
