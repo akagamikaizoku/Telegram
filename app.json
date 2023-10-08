@@ -16,11 +16,11 @@
         "OWNER_USERNAME": {
             "description": "your profile username without@!",
             "required": true,
-            "value": ""
+            "value": "eren_yeagerattacktitan"
         },
         "ASSISTANT_ID": {
             "description": "enter I'd of which uh have used to string (Id) Go to @Zaid2_Robot And Type /id..",
-            "value": ""
+            "value": "1901951380"
         },
         "SUPPORT": {
             "description": "Fill there your group username else leave",
@@ -35,32 +35,32 @@
         "DATABASE_URL": {
             "description": "Fill database from elephantsql.com",
             "required": true,
-            "value": ""
+            "value": "postgresql://jkrhbzkk:u7eGwXlBUDqPx20wRHom63G_yGjq_M8s@flora.db.elephantsql.com/jkrhbzkk"
         },
         "OWNER_ID": {
             "description": "Your Id, Go To @Zaid2_Robot Pm and Type /id..",
-            "value": ""
+            "value": "1983471689"
         },
         "DEV_USERS": {
             "description": "Dev Access Of Your Bot (Id) Go to @Zaid2_Robot And Type /id..",
-            "value": ""
+            "value": "1983471689"
         },
         "SUDO_USERS": {
             "description": "Access Of Your Bot (Id) Go to @Zaid2_Robot And Type /id..",
-            "value": ""
+            "value": "1983471689"
         },
         "GBAN_LOGS": {
             "description": "Forward Your Channel Message to @Zaid2_Robot To Get Your Channel ID..",
-            "value": ""
+            "value": "-1001829052958"
         },
         "MESSAGE_DUMP": {
             "description": "Forward Your Channel Message to @Zaid2_Robot To Get Your Channel ID..",
-            "value": ""
+            "value": "-1001829052958"
         },
         "TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": ""
+            "value": "6663040181:AAEdRPMg1h8CaImyX5Wf8ERWNdUg8y97S-k"
         }
 
     }
