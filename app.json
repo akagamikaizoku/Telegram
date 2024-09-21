@@ -8,7 +8,7 @@
         "STRING_SESSION": {
             "description": "fill with the telethon session string from https://replit.com/@Itz-zaid/Generator",
             "required": true
-            "value": "BQHFhggAnljOI35HkOwjsQkej5-TCmNONWKeYiJqDnVDmfMm-pMDTYqpS1CU4xyKJoKIAMrxW-FkA668iWlyH_gNnsV-sCTDLSuUW3XtL5cyi5NGkuDhwGyMV81Lz-fbw6rXYZ0mb2pY5g1YutVnHVXzJNLAT-StpoQ7CtJcljKrkvdBFK-n8wFscByLDH0lxh8lkt7pWPf3MOzgnMAsIAJTOlKPUf7DBnSaCE86nW8ReqSeT1v62SDYdWfIwdQjsSCBtraeL1dtFW08r8Tig9Q1TwavCTaY8hGMACw3VuAqzjYpO1SDY2JuOQO5lOQycO1Ra89fd6nBkg2MoJ9CjwvzmUGZsgAAAAGNJey1AQ"
+            "value": ""
         },
         "REPO_URL": {
             "description": "URL of the REPO, If You Have edited Repo.. Else Leave ! Don't Change",
@@ -17,7 +17,7 @@
         "OWNER_USERNAME": {
             "description": "your profile username without@!",
             "required": true,
-            "value": "eren_yeagerattacktitan"
+            "value": ""
         },
         "ASSISTANT_ID": {
             "description": "enter I'd of which uh have used to string (Id) Go to @Zaid2_Robot And Type /id..",
@@ -31,24 +31,24 @@
         "CHANNEL": {
             "description": "Fill there your Channel username else leave",
             "required": false,
-            "value": "esdeath_xb"
+            "value": ""
         },
         "DATABASE_URL": {
             "description": "Fill database from elephantsql.com",
             "required": true,
-            "value": "postgresql://jkrhbzkk:u7eGwXlBUDqPx20wRHom63G_yGjq_M8s@flora.db.elephantsql.com/jkrhbzkk"
+            "value": ""
         },
         "OWNER_ID": {
             "description": "Your Id, Go To @Zaid2_Robot Pm and Type /id..",
-            "value": "1983471689"
+            "value": ""
         },
         "DEV_USERS": {
             "description": "Dev Access Of Your Bot (Id) Go to @Zaid2_Robot And Type /id..",
-            "value": "1983471689"
+            "value": ""
         },
         "SUDO_USERS": {
             "description": "Access Of Your Bot (Id) Go to @Zaid2_Robot And Type /id..",
-            "value": "1983471689"
+            "value": ""
         },
         "GBAN_LOGS": {
             "description": "Forward Your Channel Message to @Zaid2_Robot To Get Your Channel ID..",
@@ -61,7 +61,7 @@
         "TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": "6663040181:AAEdRPMg1h8CaImyX5Wf8ERWNdUg8y97S-k"
+            "value": ""
         }
 
     }
